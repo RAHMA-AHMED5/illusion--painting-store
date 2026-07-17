@@ -7,6 +7,6 @@ This project was created during my early journey in web development to practice 
 - HTML5
 - CSS3
 
-## Repository
+## 🌐 Live Demo
 
 📂 [https://github.com/rahma-ahmed5/illusion--painting-store](https://rahma-ahmed5.github.io/illusion--painting-store/)
